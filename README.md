@@ -4,9 +4,10 @@
 
 * Expertise with Microsoft Excel like VLOOKUP, Power Query, Pivot Tables, Dynamic dashboard
 * Hands-on experience with POWER BI, DAX, Reporting, Data Modelling, M language
-* Expertise with MySQL, PSSQL
+* Hands on Experience with MySQL, PostgreSQL
 * Hands-on experience with Google Analytics -4, Looker Studio, and Customer engagement analysis.
 * Experience in data analysis, basics of statistics, and hypothesis testing.
+* Knowledge of Python, Pandas, Numpy, Matplotlib.
 * Expertise with Microsoft PowerPoint.
 * I'm a data-driven enthusiast dedicated to driving results.
   
