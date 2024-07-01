@@ -11,5 +11,3 @@
 * Expertise with Microsoft PowerPoint.
 * I'm a data-driven enthusiast dedicated to driving results.
   
-  # Analytical Tools
-  
