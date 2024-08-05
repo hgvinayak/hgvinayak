@@ -2,7 +2,7 @@
 
 **About Me**
 
-🌱Aspiring Data Analyst : With 2 years of hands-on experience in Advanced Excel,Power Query, Power BI, SQL, Google Analytics, Google Sheets, and Data Studio, I specialize in data cleaning, transformation, and visualization to extract insights and drive business decisions. I am eager to apply my skills to contribute to a dynamic team and support data-driven decision-making.
+🌱Passionate and Results-Oriented Data Analyst : With 2 years of hands-on experience in MS Excel,Power Query, Power BI, SQL, Google Analytics, Google Sheets, and Data Studio, I specialize in data cleaning, transformation, and visualization to extract insights and drive business decisions. I am eager to apply my skills to contribute to a dynamic team and support data-driven decision-making.
 
 **📌Welcome to my GitHub Profile!**
 
