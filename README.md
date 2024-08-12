@@ -4,6 +4,10 @@
 
 -This showcases my personal projects involving Power BI, advanced Excel, SQL, and Python. I have worked with diverse datasets from industries such as telecom, manufacturing, banking, finance, Pizza Hut, and various global datasets. Through these projects, I have leveraged different analytical tools to generate meaningful insights and comprehensive reports.
 
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hgvinayak)
+
 🔷**Key Projects**
 1. Sales Insights 360 - POWER BI - [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_atliq-technologies-sales-insights-360-project-activity-7224738538611785730-qBgq/?utm_source=share&utm_medium=member_desktop) | 
    [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y1MTAxZWMtY2QyMy00MDA1LTk5MmEtYzc0MTExYWMzZmQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
