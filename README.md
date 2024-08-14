@@ -1,6 +1,9 @@
  # 👋 Hi, I’m Vinayak Hiremath
 
-**📌Welcome to my GitHub Profile!**
+ 💠**About Me**
+ -- Aspiring Data Analyst with 2 years of experience in leveraging MS Excel, Google Sheets, Power BI, SQL, Google Analytics-4, and Looker Studio. Skilled in data cleaning, transformation, and visualization to extract insights and drive business decisions. I am eager to apply my skills to contribute to a dynamic team and support data-driven decision-making
+
+ **📌Welcome to my GitHub Profile!**
 
 -This showcases my personal projects involving Power BI, advanced Excel, SQL, and Python. I have worked with diverse datasets from industries such as telecom, manufacturing, banking, finance, Pizza Hut, and various global datasets. Through these projects, I have leveraged different analytical tools to generate meaningful insights and comprehensive reports.
 
@@ -13,7 +16,7 @@
    [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y1MTAxZWMtY2QyMy00MDA1LTk5MmEtYzc0MTExYWMzZmQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 3. Sales and Fiance Analytics - Advanced Excel - [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_sales-and-finance-analytics-project-advanced-activity-7221068143534780416-uwi2/?utm_source=share&utm_medium=member_desktop)
 4. Web Application users activity analysis - SQL [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_web-application-users-data-analysis-sql-activity-7222622351425724416-QRRT?utm_source=share&utm_medium=member_desktop)
-
+> #
 🟢**Resume Project Challange - By Codebasics**
 
 
@@ -21,21 +24,22 @@
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk1ZjNhMGQtNDU0Yi00YzlkLWFiODItM2FjZTAxNDdlZWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
+>#
+
 
 🔷**Virtual Case Experience:**
 1. PwC Switzerland's Power BI Job Simulation on Forage: [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_power-bi-job-simulation-virtual-internship-activity-7205563034696650754-1xiQ?utm_source=share&utm_medium=member_desktop)
 worked on Call center data of a telecom company, Diversity and Inclusion - HR data, Customer Retention in a telecom company.
 
-
+>#
 
 ⚙**Technical Skills:**
-1. POWER BI
-2. SQL
-3. Power Query
-4. Python
-5. MS Excel
-6. Looker Studio
-7. Google Analytics
-8. MS Outlook
-9. MS Power POint
+- MS Excel
+- SQL
+- Power BI
+- Python
+- Google Analytics (GA4)
+- Looker Studio
+- SSMS , MySQL 
+
   
