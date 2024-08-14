@@ -14,7 +14,13 @@
 3. Sales and Fiance Analytics - Advanced Excel - [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_sales-and-finance-analytics-project-advanced-activity-7221068143534780416-uwi2/?utm_source=share&utm_medium=member_desktop)
 4. Web Application users activity analysis - SQL [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_web-application-users-data-analysis-sql-activity-7222622351425724416-QRRT?utm_source=share&utm_medium=member_desktop)
 
-   
+🟢**Resume Project Challange - By Codebasics**
+
+
+"Market Analysis of Electric Vechicles in India" for AtliQ Motors - [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_projectchallange-powerbi-electricvehicles-activity-7229371359791919104-K-jp?utm_source=share&utm_medium=member_desktop) |
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk1ZjNhMGQtNDU0Yi00YzlkLWFiODItM2FjZTAxNDdlZWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 
 🔷**Virtual Case Experience:**
 1. PwC Switzerland's Power BI Job Simulation on Forage: [LinkedIn Post](https://www.linkedin.com/posts/vinayak-hiremath-5b2a75137_power-bi-job-simulation-virtual-internship-activity-7205563034696650754-1xiQ?utm_source=share&utm_medium=member_desktop)
