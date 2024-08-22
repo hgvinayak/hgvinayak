@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Vinayak Hiremath
 
  💠**About Me**
- -- Passionate and Motivated Data Analyst with a solid foundation and diverse experience in the field. With 2 years of experience in leveraging MS Excel, Power BI, Google Analytics, Google Sheets, and Looker Studio. 
+ -- Driven and Result-oriented Data Analyst with a solid foundation and diverse experience in the field. with 2+ years of experience in leveraging Power BI, Looker Studio, Google Sheets, GA4, SQL, and Advanced Excel to extract insights and drive business decisions. Adept at data cleaning, transformation, and visualization, creating impactful dashboards and reports that inform stakeholders and improve performance. 
 
 -- Skilled in data cleaning, transformation, and visualization to extract insights and drive business decisions. I am eager to apply my skills to contribute to a dynamic team and support data-driven decision-making.
 
