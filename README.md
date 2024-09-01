@@ -3,8 +3,6 @@
  
  **📌Welcome to my GitHub Profile!**
  
- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hgvinayak)
-
 -- This showcases my personal projects involving Power BI, advanced Excel, SQL, and Python. I have worked with diverse datasets from industries such as telecom, manufacturing, FMCG,banking, finance, Pizza Hut, and various global datasets. Through these projects, I have leveraged different analytical tools to generate meaningful insights and comprehensive reports.
 > #
 🔗𝗠𝘆 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗟𝗶𝗻𝗸 : [Click Here](https://codebasics.io/portfolio/Vinayak-Hiremath)
