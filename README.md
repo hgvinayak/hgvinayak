@@ -1,15 +1,21 @@
  # 👋 Hi, I’m Vinayak Hiremath
 
- 💠**About Me**
- -- Driven and Result-oriented Data Analyst with a solid foundation and diverse experience in the field. with 2+ years of experience in leveraging Power BI, Looker Studio, Google Sheets, GA4, SQL, and Advanced Excel to extract insights and drive business decisions. Adept at data cleaning, transformation, and visualization, creating impactful dashboards and reports that inform stakeholders and improve performance. 
-
--- Skilled in data cleaning, transformation, and visualization to extract insights and drive business decisions. I am eager to apply my skills to contribute to a dynamic team and support data-driven decision-making.
-
+ 
  **📌Welcome to my GitHub Profile!**
 
--This showcases my personal projects involving Power BI, advanced Excel, SQL, and Python. I have worked with diverse datasets from industries such as telecom, manufacturing, banking, finance, Pizza Hut, and various global datasets. Through these projects, I have leveraged different analytical tools to generate meaningful insights and comprehensive reports.
+-- This showcases my personal projects involving Power BI, advanced Excel, SQL, and Python. I have worked with diverse datasets from industries such as telecom, manufacturing, banking, finance, Pizza Hut, and various global datasets. Through these projects, I have leveraged different analytical tools to generate meaningful insights and comprehensive reports.
 
+ 💠**About Me** - 
+ 
+ -- I am a passionate and dedicated data enthusiast, With over 5+ years of experience across various domains, including roles in production, BPO, and product-based IT companies, I have developed strong client handling, project management, data analysis, presentation, domain knowledge, communication, and conflict resolution skills. 
+ 
+ -- I also bring over 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, Google Analytics, Looker Studio, Power BI, and SQL for data analysis and reporting. Skilled in data cleaning, ETL operation, visualization, reporting, and extracting actionable insights from raw data.
+ 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--🌱
+**I am eager to apply my skills within a dynamic team, helping organizations make data-driven decisions by extracting actionable insights and driving process improvements .Actively seeking full-time opportunities**
 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=hgvinayak)
 
@@ -42,6 +48,13 @@ worked on Call center data of a telecom company, Diversity and Inclusion - HR da
 - Python
 - Google Analytics (GA4)
 - Looker Studio
-- SSMS , MySQL 
+- SQL - SSIS, SSRS,SSAS 
+
+>#
+⚙**Soft Skills:**
+- Communication
+- Project Management
+- Client Handling
+- Domain Knowledge
 
   
