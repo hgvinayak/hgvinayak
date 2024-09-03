@@ -12,11 +12,11 @@
 > #
  💠**About Me** - 
  
- -- I am a passionate and dedicated data enthusiast, With over 5+ years of experience across various domains, including roles in production, BPO, and product-based IT companies, I have developed strong client handling, project management, presentation, domain knowledge, and communication skills. 
- 
- -- I also bring over 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, Google Analytics, Looker Studio, Power BI, and SQL for data analysis and reporting. Skilled in data cleaning, ETL operation, visualization, reporting, and extracting actionable insights from raw data.
- 
---🌱I am eager to apply my skills within a dynamic team, helping organizations make data-driven decisions by extracting actionable insights and driving process improvements .Actively seeking full-time opportunities
+ -- I am a passionate and Aspiring data analyst,✨ with 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, and Looker Studio for data analysis and reporting.
+
+-- Currently on the lookout for challenging roles where I can leverage my expertise to contribute to business success through data-driven decision-making. If you need a dedicated and motivated data analyst proficient in SQL, Power BI, Advanced MS Excel, Google Sheets, and Looker Studio, let's connect!
+
+Feel free to reach out to discuss potential opportunities or collaboration projects. I'm eager to explore how we can collaborate to achieve our objectives!
 
 > #
 🔷**Key Projects**
