@@ -12,7 +12,7 @@
 > #
  💠**About Me** - 
  
- -- I am a passionate and Aspiring data analyst,✨ with 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, and Looker Studio for data analysis and reporting.
+ -- I am a passionate data analyst,✨ with 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, Power Query and Looker Studio for data analysis and reporting.
 
 -- Currently on the lookout for challenging roles where I can leverage my expertise to contribute to business success through data-driven decision-making. If you need a dedicated and motivated data analyst proficient in SQL, Power BI, Advanced MS Excel, Google Sheets, and Looker Studio, let's connect!
 
