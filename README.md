@@ -5,14 +5,18 @@
  
 -- This showcases my personal projects involving Power BI, advanced Excel, SQL, and Python. I have worked with diverse datasets from industries such as telecom, manufacturing, FMCG,banking, finance, Pizza Hut, and various global datasets. Through these projects, I have leveraged different analytical tools to generate meaningful insights and comprehensive reports.
 > #
-🔗𝗠𝘆 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗟𝗶𝗻𝗸 : [Click Here](https://codebasics.io/portfolio/Vinayak-Hiremath)
 
-🤝𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗡: [Click Here](https://www.linkedin.com/in/vinayak-hiremath-5b2a75137/)
-
-> #
  💠**About Me** - 
  
- -- I am a passionate data analyst,✨ with 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, Power Query and Looker Studio for data analysis and reporting.
+-- I am a passionate and Dedicated data analyst, with 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, Power Query, and Looker Studio for data analysis, Dashboard creation, and report generation.
+
+⏩Additional Skills and Experience:
+
+-- Through a virtual internship and a data analytics boot camp, I have gained proficiency in Power BI, SQL, data modeling, and data visualization. My portfolio showcases my ability to apply these skills to real-world data analysis and reporting projects.
+
+⚙Portfolio Link : [Click Here](https://codebasics.io/portfolio/Vinayak-Hiremath)
+
+⚙LinkedIN: [Click Here](https://www.linkedin.com/in/vinayak-hiremath-5b2a75137/)
 
 -- Currently on the lookout for challenging roles where I can leverage my expertise to contribute to business success through data-driven decision-making. If you need a dedicated and motivated data analyst proficient in SQL, Power BI, Advanced MS Excel, Google Sheets, and Looker Studio, let's connect!
 
