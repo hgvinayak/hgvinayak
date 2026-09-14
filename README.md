@@ -7,18 +7,20 @@
 > #
 
  💠**About Me** - 
- 
--- I am a passionate and Dedicated data analyst, with 2 years of hands-on experience in leveraging tools like MS Excel, Google Sheets, Power Query, and Looker Studio for data analysis, Dashboard creation, and report generation.
+ 𝗠𝗜𝗦 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗘𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲 | 𝗧𝘂𝗿𝗻𝗶𝗻𝗴 𝗗𝗮𝘁𝗮 𝗶𝗻𝘁𝗼 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗺𝗽𝗮𝗰𝘁
 
-⏩Additional Skills and Experience:
+I'm an MIS Data Analyst with 2+ years of experience in the e-commerce industry, specializing in transforming raw data into clear, actionable insights that drive business decisions.
 
--- Through a virtual internship and a data analytics boot camp, I have gained proficiency in Power BI, SQL, data modeling, and data visualization. My portfolio showcases my ability to apply these skills to real-world data analysis and reporting projects.
+🔹 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Advanced Excel, SQL, and Power Query for data cleaning, dashboard creation, and business KPI tracking — with a strong focus on data accuracy and consistency across multiple sales channels.
+
+🔹 𝗥𝗲𝗽𝗼𝗿𝘁𝗶𝗻𝗴 & 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀: Skilled in building daily, weekly, and monthly reports that give stakeholders real-time visibility into performance metrics, sales trends, and operational health.
+
+🔹 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗣𝗮𝗿𝘁𝗻𝗲𝗿𝘀𝗵𝗶𝗽: Experienced in preparing executive summaries and CLT (Corporate Leadership Team) updates for senior leadership, translating complex datasets into concise, decision-ready narratives.
 
 ⚙Portfolio Link : [Click Here](https://codebasics.io/portfolio/Vinayak-Hiremath)
 
 ⚙LinkedIN: [Click Here](https://www.linkedin.com/in/vinayak-hiremath-5b2a75137/)
 
--- Currently on the lookout for challenging roles where I can leverage my expertise to contribute to business success through data-driven decision-making. If you need a dedicated and motivated data analyst proficient in SQL, Power BI, Advanced MS Excel, Google Sheets, and Looker Studio, let's connect!
 
 Feel free to reach out to discuss potential opportunities or collaboration projects. I'm eager to explore how we can collaborate to achieve our objectives!
 
